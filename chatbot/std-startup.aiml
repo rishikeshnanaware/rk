@@ -1,0 +1,10 @@
+<aiml version="1.0">
+    <category>
+        <pattern>load aiml b</pattern>
+        <template>
+            <learn>standard/salutations.aiml</learn>
+            <learn>standard/employee.aiml</learn>
+			<learn>standard/date.aiml</learn>
+        </template>
+    </category>
+</aiml>
