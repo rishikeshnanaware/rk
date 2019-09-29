@@ -1,0 +1,22 @@
+Employee Table
+emp_id(primary key)
+emp_name
+emp_email
+emp_phone
+dept_id
+design
+location
+
+Salary Table
+emp_id(primary key)
+salary
+
+Department Table
+dept_id
+dept_name
+dept_location
+dept_manager
+
+Attendance Table
+emp_id
+status
